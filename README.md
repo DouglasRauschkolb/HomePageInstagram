@@ -4,4 +4,4 @@ Desenvolvido a home page do Instagram, conforme proposto no bootcamp de HTML Web
 
 ### Tecnologias
   - HTML
-  - css
+  - CSS
